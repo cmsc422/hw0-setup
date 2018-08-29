@@ -87,7 +87,3 @@ and you should see a message like the following in your terminal.
 ```
 
 Now **open the your favorite browser** and **go to the given URL**. Click on `hello_world.ipynb` to get started with your first Jupyter Notebook.
-
-## Submission
-
-This homework will not be graded. Ignore this at your own peril!
